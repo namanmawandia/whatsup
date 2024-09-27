@@ -14,9 +14,9 @@ Whatsup is a one to one messaging android based application, developed as a proj
 
 Include screenshots of your app in action!
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| Start Screen | Login Screen | Register Screen |
 | ------------ | ------------ | ------------ |
-| ![Screen 1](link_to_image) | ![Screen 2](link_to_image) | ![Screen 3](link_to_image) |
+| <img src="https://github.com/user-attachments/assets/06140ab7-98cd-4c13-bce8-4bbcf0ea7dd6" width="200">| <img src="https://github.com/user-attachments/assets/330584a5-2815-4307-b9f1-8978b4c3e780" width="200"> | <img src="https://github.com/user-attachments/assets/880c80ad-c5bd-4620-9f9d-8e08b6db907e" width="200"> |
 
 ## 📱 Download and Install
 
@@ -36,3 +36,6 @@ This application can't be downloaded from an app store.
 
    ```bash
    git clone https://github.com/namanmawandia/whatsup.git
+2. Open the project in Android Studio.
+3. Sync the project with Gradle.
+4. Run the app on your preferred Android device or emulator.
